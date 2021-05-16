@@ -1,5 +1,6 @@
 # Telecom-Data-Analysis
 # This is a program for Data Analysis for MTN with relation to their technological infrastructure upgrade
+# These files are going to be the datasets that will be used for our analysis
 [cells_geo.csv](https://github.com/AlfredNdoro/Telecom-Data-Analysis/files/6480732/cells_geo.csv)
 [CDR_description.xlsx](https://github.com/AlfredNdoro/Telecom-Data-Analysis/files/6480733/CDR_description.xlsx)
 [cells_geo_description (1).xlsx](https://github.com/AlfredNdoro/Telecom-Data-Analysis/files/6480734/cells_geo_description.1.xlsx)
